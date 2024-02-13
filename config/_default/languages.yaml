@@ -3,10 +3,36 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+ja:
+  languageCode: ja
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/ja
+
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Skills
+        url: '#skill'
+        weight: 15
+      - name: Experience
+        url: '#experience'
+        weight: 20
+      - name: Publications
+        url: '#publication'
+        weight: 30
+      - name: Gallery
+        url: '#gallery'
+        weight: 50
+      - name: Contact
+        url: '#contact'
+        weight: 60
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
@@ -17,6 +43,6 @@ en:
 #    description: Site description in Chinese...
 #  menu:
 #    main:
-#      - name: 传
+#      - name: d< 
 #        url: '#about'
 #        weight: 1
