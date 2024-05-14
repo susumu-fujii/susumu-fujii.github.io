@@ -62,3 +62,33 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /calc/**
+    pager: true
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: true
+    share: false
+    profile: false
+    header:
+      navbar:
+        enable: false
+  # Configure blog posts
+  - _target:
+      path: /programming/**
+    pager: true
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: true
+    share: false
+    profile: false
+    header:
+      navbar:
+        enable: false

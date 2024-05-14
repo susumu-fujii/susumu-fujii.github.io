@@ -64,13 +64,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 特任准教授
+          company: 九州大学
+          company_url: ''
+          company_logo: 'ku'
+          location: 福岡
+          date_start: '2024-04-01'
+          date_end: ''
+          description: エネルギー研究教育機構 山崎研究室
         - title: 助教
           company: 大阪大学
           company_url: ''
           company_logo: 'ou'
           location: 大阪
           date_start: '2021-04-01'
-          date_end: ''
+          date_end: '2024-03-31'
           description: 工学研究科 マテリアル生産科学専攻 量子材料物性学領域（吉矢研究室）
         - title: 研究員（ポスドク）
           company: ファインセラミックスセンター（JFCC）
@@ -137,15 +145,15 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
-      text: まだ記事はありません。
+      # text: まだ記事はありません。
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
-          - post
+          - important
         author: ""
         category: ""
         tag: ""
@@ -180,7 +188,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: susumu.fujii _at_ mat.eng.osaka-u.ac.jp
+      email: fujii.susumu.878 _at_ m.kyushu-u.ac.jp
       #phone: 
       #address:
       #  street: 450 Serra Mall

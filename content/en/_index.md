@@ -64,13 +64,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Associate Professor
+          company: Kyushu University
+          company_url: ''
+          company_logo: 'ku'
+          location: Fukuoka, Japan
+          date_start: '2024-04-01'
+          date_end: ''
+          description: Yamazaki Laboratry, Platform of Inter-/Transdisciplinary Energy Research.
         - title: Assistant Professor
           company: Osaka University
           company_url: ''
           company_logo: 'ou'
           location: Osaka, Japan
           date_start: '2021-04-01'
-          date_end: ''
+          date_end: '2024-03-31'
           description: Quantum Materials Physics Laboratory (Yoshiya Laboratory), Division of Materials and Manufacturing Science, Graduate School of Engineering.
         - title: Researcher (Postdoc)
           company: Japan Fine Ceramics Center
@@ -83,7 +91,7 @@ sections:
                Computational Materials Group, Nanostructures Research Laboratory.
 
                Cross appointment as Special Researcher, at Center for Materials Research by Information Integration, National Institute for Materials Science (NIMS), from April 2019 to March 2020.
-        - title: Specially Appointed Researcher
+        - title: Research Fellow
           company: Osaka University
           company_url: ''
           company_logo: 'ou'
@@ -169,7 +177,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: susumu.fujii _at_ mat.eng.osaka-u.ac.jp
+      email: fujii.susumu.878 _at_ m.kyushu-u.ac.jp
       #phone: 
       #address:
       #  street: 450 Serra Mall

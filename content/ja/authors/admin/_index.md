@@ -13,12 +13,12 @@ last_name: Fujii
 superuser: true
 
 # Role/position/tagline
-role: 助教
+role: 特任准教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 大阪大学
-    url: https://www.osaka-u.ac.jp/
+  - name: 九州大学
+    url: https://www.kyushu-u.ac.jp/ja/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interestes are primarily on atomistic modeling and computational design for energy materials including thermoelectrics, solid oxide fuel cells, and batteries, with a special focus on ceramic defects and their dynamics.
@@ -122,25 +122,29 @@ skills:
     items:
       - name: 広島
         description: ''
-        percent: 57
+        percent: 100
         icon: torii-gate
         icon_pack: fas
       - name: 大阪
         description: ''
-        percent: 37
+        percent: 72
         icon: graduation-cap
-        icon_pack: fas
-      - name: 名古屋
-        description: ''
-        percent: 5
-        icon: car
         icon_pack: fas
       - name: カーン（フランス）
         description: ''
         percent: 1
         icon: franc-sign
         icon_pack: fas
-
+      - name: 名古屋
+        description: ''
+        percent: 11
+        icon: car
+        icon_pack: fas
+      - name: 福岡
+        description: ''
+        percent: 1
+        icon: utensils
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

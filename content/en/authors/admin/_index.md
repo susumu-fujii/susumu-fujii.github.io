@@ -13,12 +13,12 @@ last_name: Fujii
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Research Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Osaka University
-    url: https://www.osaka-u.ac.jp/en
+  - name: Kyushu University
+    url: https://www.kyushu-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interestes are primarily on atomistic modeling and computational design for energy materials including thermoelectrics, solid oxide fuel cells, and batteries, with a special focus on ceramic defects and their dynamics.
@@ -122,25 +122,29 @@ skills:
     items:
       - name: Hiroshima, Japan
         description: ''
-        percent: 57
+        percent: 100
         icon: torii-gate
         icon_pack: fas
       - name: Osaka, Japan
         description: ''
-        percent: 37
+        percent: 72
         icon: graduation-cap
-        icon_pack: fas
-      - name: Nagoya, Japan
-        description: ''
-        percent: 5
-        icon: car
         icon_pack: fas
       - name: Caen, France
         description: ''
         percent: 1
         icon: franc-sign
         icon_pack: fas
-
+      - name: Nagoya, Japan
+        description: ''
+        percent: 11
+        icon: car
+        icon_pack: fas
+      - name: Fukuoka, Japan
+        description: ''
+        percent: 1
+        icon: utensils
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -172,5 +176,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Susumu Fujii is an assistant professor of computational materials science at the Osaka Univerisity. His research interestes are primarily on atomistic modeling and computational design for energy materials including thermoelectrics, solid oxide fuel cells, and batteries, with a special focus on ceramic defects and their dynamics.
+Susumu Fujii is a specially appointed associate professor of computational materials science at the Kyushu Univerisity. His research interestes are primarily on atomistic modeling and computational design for energy materials including thermoelectrics, solid oxide fuel cells, and batteries, with a special focus on ceramic defects and their dynamics.
 {style="text-align: justify;"}
