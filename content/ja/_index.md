@@ -135,7 +135,7 @@ sections:
 
           {{< icon name="play" pack="fas" >}} {{< staticref "https://researchmap.jp/susumufujii/" "newtab" >}}Researchmap{{< /staticref >}}
 
-          {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Kthomx8AAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}
+          {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}
 
 
 

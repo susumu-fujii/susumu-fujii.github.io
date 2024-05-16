@@ -159,7 +159,7 @@ social:
     link: https://researchmap.jp/susumufujii/
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Kthomx8AAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
