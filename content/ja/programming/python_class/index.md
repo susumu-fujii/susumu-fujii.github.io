@@ -1,8 +1,7 @@
 ---
-title: 'Python: Class'
+title: 'Pythonのクラス'
 date: '2024-04-04'
 private: true
-summary: 'Pythonのクラス。'
 image:
   caption: 
   focal_point: ''

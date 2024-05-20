@@ -1,8 +1,7 @@
 ---
-title: 'Python: Function'
+title: 'Pythonの関数'
 date: '2024-04-03'
 private: true
-summary: 'Pythonの関数。'
 image:
   caption: 
   focal_point: ''

@@ -1,8 +1,7 @@
 ---
-title: 'Python: Basic'
+title: 'Pythonの基本の基本'
 date: '2024-04-02'
 private: true
-summary: 'Pythonの基本の基本。'
 image:
   caption: 
   focal_point: ''
@@ -10,13 +9,9 @@ image:
   preview_only: true
 ---
 
-{{% callout note %}}
-もしpython環境がなかったら、Anacondaなり、Minicondaなり、apt-getなりで入れてください。
-{{% /callout %}}
-
 ### 基本の基本
 
-python (or python3) とターミナルで打って、以下を入力してみてください。
+Anacondaの何かしらのソフトを起動するか、python (or python3) と計算機クラスターのターミナルで打って、以下を入力してみてください。
 ```python
 a = 1         # pythonは整数と認識します。
 a = 1.0       # pythonは実数と認識します。（もしくはa = 1.）
