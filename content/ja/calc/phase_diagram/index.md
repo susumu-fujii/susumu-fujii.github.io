@@ -41,52 +41,14 @@ grep TITEL POTCAR
 ```
 
 どの擬ポテンシャルを使えば良いかは場合によりますが、多くの場合で上手くいく擬ポテンシャルはVASPの公式で示されています。
-[このページ](https://www.vasp.at/wiki/index.php/Available_PAW_potentials)を開いてください。
-Recommended potentials for DFT calculationsというセクションがあって、その下にテーブルが書いてあると思います。
-その中の太字のものが、おすすめの擬ポテンシャルです。
-例えばLiだと、「Li」と「**Li_sv**」というのがテーブルに書かれていて、太字になっている**Li_sv**というのがおすすめの擬ポテンシャル、ということになります。
-これを使いたかったら、
+[このページ](https://www.vasp.at/wiki/index.php/Available_PAW_potentials)の太字のやつです。
 
-```bash
-cat /home/share/vaspPOTCARs/potpaw_PBE54/Li_sv/POTCAR > POTCAR
-```
-
-とすれば、POTCARに書き込むことができます。
-
-それでは、以下の手順で各化合物のPOTCARを用意してみてください。
+以下の手順でPOTCARを用意してみてください。
 
 1. 化合物のディレクトリ（mp-\*\*\*）に移動
-2. catやlessでPOSCARに書かれている元素の順番を確認（６行目です）
+2. catやlessでPOSCARに書かれている元素の順番を確認
 3. 上記の手順でPOTCARを作成
 4. 1-3を全部の化合物で終わるまで繰り返す
-
-例えばmp-1342_Ba1O1だと、６行目に
-
-```
-Ba O
-```
-
-と書いてあります。
-この場合、
-
-```bash
-cat /home/share/vaspPOTCARs/potpaw_PBE54/Ba_sv/POTCAR > POTCAR
-cat /home/share/vaspPOTCARs/potpaw_PBE54/O/POTCAR     >> POTCAR
-```
-
-とすればPOTCARが作成できます。
-
-```bash
-grep TITEL POTCAR
-```
-とすると、
-
-```
-   TITEL  = PAW_PBE Ba_sv 06Sep2000
-   TITEL  = PAW_PBE O 08Apr2002 
-```
-
-と表示されて、BaとOの情報がPOTCARに書かれたことが確認できます。
 
 ちなみにPOTCARに含める元素の情報を間違えると、計算がめちゃくちゃになってしまうので、vasp.logやOUTCARを確認して何かがおかしいと気づいたらqdelコマンドでジョブを消して下さい。
 
