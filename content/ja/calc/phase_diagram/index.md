@@ -83,7 +83,7 @@ grep TITEL POTCAR
 
 ```
    TITEL  = PAW_PBE Ba_sv 06Sep2000
-   TITEL  = PAW_PBE O 08Apr2002
+   TITEL  = PAW_PBE O 08Apr2002 
 ```
 
 と表示されて、BaとOの情報がPOTCARに書かれたことが確認できます。
