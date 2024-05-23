@@ -44,7 +44,7 @@ grep TITEL POTCAR
 [このページ](https://www.vasp.at/wiki/index.php/Available_PAW_potentials)を開いてください。
 Recommended potentials for DFT calculationsというセクションがあって、その下にテーブルが書いてあると思います。
 その中の太字のものが、おすすめの擬ポテンシャルです。
-例えばLiだと、「Li」と「**Li_sv**」というのがテーブルに書かれていて、太字になっている**Li_sv**というのがおすすめの擬ポテンシャル、ということになります。
+例えばLiだと、Liと**Li_sv**というのがテーブルに書かれていて、太字になっている**Li_sv**というのがおすすめの擬ポテンシャル、ということになります。
 これを使いたかったら、
 
 ```bash
@@ -56,13 +56,13 @@ cat /home/share/vaspPOTCARs/potpaw_PBE54/Li_sv/POTCAR > POTCAR
 それでは、以下の手順で各化合物のPOTCARを用意してみてください。
 
 1. 化合物のディレクトリ（mp-\*\*\*）に移動
-2. catやlessでPOSCARに書かれている元素の順番を確認（６行目です）
+2. catやlessでPOSCARに書かれている元素の順番を確認（6行目です）
 3. 上記の手順でPOTCARを作成
 4. 1-3を全部の化合物で終わるまで繰り返す
 
-例えばmp-1342_Ba1O1だと、６行目に
+例えばmp-1342_Ba1O1だと、6行目に
 
-```
+```bash
 Ba O
 ```
 
@@ -79,6 +79,7 @@ cat /home/share/vaspPOTCARs/potpaw_PBE54/O/POTCAR     >> POTCAR
 ```bash
 grep TITEL POTCAR
 ```
+
 とすると、
 
 ```
