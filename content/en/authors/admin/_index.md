@@ -13,7 +13,7 @@ last_name: Fujii
 superuser: true
 
 # Role/position/tagline
-role: Research Associate Professor
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:

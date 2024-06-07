@@ -13,7 +13,7 @@ last_name: Fujii
 superuser: true
 
 # Role/position/tagline
-role: 特任准教授
+role: 准教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
