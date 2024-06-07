@@ -64,6 +64,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 准教授
+          company: 九州大学
+          company_url: ''
+          company_logo: 'ku'
+          location: 福岡
+          date_start: '2024-06-01'
+          date_end:
+          description: 大学院工学研究院 材料工学部門 山崎研究室
         - title: 特任准教授
           company: 九州大学
           company_url: ''
