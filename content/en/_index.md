@@ -138,7 +138,7 @@ sections:
 
           We are currently recruiting a post-doctoral researcher.
 
-          Starting next year, you can be employed at Kyushu University as a postdoc under {{< icon name="book" pack="fas" >}} {{< staticref "https://www.jst.go.jp/souhatsu/en/outline/index.html" "newtab" >}}JST FOREST (Fusion Oriented REsearch for disruptive Science and Technology){{< /staticref >}} (maximum 7 years).
+          Starting next year, you can be employed at Kyushu University as a postdoc under {{< icon name="book" pack="fas" >}} {{< staticref "https://www.jst.go.jp/souhatsu/en/outline/index.html" "newtab" >}} JST FOREST (Fusion Oriented REsearch for disruptive Science and Technology) {{< /staticref >}} (maximum 7 years).
 
           We especially welcome a applicant who is familiar with first-principles calculations (VASP), molecular dynamics calculations, and modeling of point defects and grain boundaries using Python and other tools at the terminal. Experience in any of these areas is acceptable.
 
