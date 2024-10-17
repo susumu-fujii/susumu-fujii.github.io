@@ -135,6 +135,7 @@ sections:
 
           {{< icon name="play" pack="fas" >}} {{< staticref "https://researchmap.jp/susumufujii/?lang=en" "newtab" >}}Researchmap{{< /staticref >}}
 
+
           We are currently recruiting a post-doctoral researcher.
 
           Starting next year, you can be employed at Kyushu University as a postdoc under {{< icon name="book" pack="fas" >}} {{< staticref "https://www.jst.go.jp/souhatsu/en/outline/index.html" "newtab" >}}JST FOREST (Fusion Oriented REsearch for disruptive Science and Technology){{< /staticref >}} (maximum 7 years).
