@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2024-10-17
+date: 2022-10-24
 type: landing
 
 sections:
@@ -135,13 +135,6 @@ sections:
 
           {{< icon name="play" pack="fas" >}} {{< staticref "https://researchmap.jp/susumufujii/?lang=en" "newtab" >}}Researchmap{{< /staticref >}}
 
-          We are currently recruiting a post-doctoral researcher.
-
-          Starting next year, you can be employed at Kyushu University as a postdoc under {{< staticref "https://www.jst.go.jp/souhatsu/en/outline/index.html" "newtab" >}}JST FOREST{{< /staticref >}} (maximum 7 years).
-
-          We especially welcome a applicant who is familiar with first principles calculations (VASP), molecular dynamics calculations, and modeling of point defects and grain boundaries using Python and other tools at the terminal. Experience in any of these areas is acceptable.
-
-          If you are interested, please contact me via the email address at the bottom of this page.
 
     design:
       columns: '2'
