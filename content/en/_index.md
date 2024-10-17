@@ -135,6 +135,14 @@ sections:
 
           {{< icon name="play" pack="fas" >}} {{< staticref "https://researchmap.jp/susumufujii/?lang=en" "newtab" >}}Researchmap{{< /staticref >}}
 
+          We are currently recruiting a postdoctoral researcher.
+
+          Starting next academic year (as of April 2024), you may be employed at Kyushu University as a postdoc researcher under the JST FOREST program.
+
+          We especially welcome applicants who are familiar with first principles calculations (VASP), molecular dynamics calculations, and modeling of point defects and grain boundaries using Python and other tools, with command line interface. Experience in any of these areas is acceptable.
+
+          If you are interested, please contact me via the email address at the bottom of this page.
+
 
     design:
       columns: '2'
