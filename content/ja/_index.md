@@ -154,7 +154,7 @@ sections:
           特にターミナルでの第一原理計算（VASP）や分子動力学計算、Pythonなどを活用した点欠陥や粒界のモデリングに精通した方は大歓迎です。
           経験はどれか一つでも構いません。
 
-          興味があれば、ページ下部のメールアドレスからご連絡ください。
+          興味があれば、{{< staticref "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124101745" "newtab" >}}こちらのページ（JREC-IN）{{< /staticref >}}をご覧ください。
 
     design:
       columns: '2'
