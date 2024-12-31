@@ -145,17 +145,6 @@ sections:
 
           {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}
 
-          　
-
-          現在、ポスドクを募集しています。
-
-          来年度より九州大学にて、{{< icon name="book" pack="fas" >}} {{< staticref "https://www.jst.go.jp/souhatsu/research2/researcher2_2023ha.html" "newtab" >}}創発的研究支援事業{{< /staticref >}}の学術研究員としての雇用が可能です（最長７年）。
-
-          特にターミナルでの第一原理計算（VASP）や分子動力学計算、Pythonなどを活用した点欠陥や粒界のモデリングに精通した方は大歓迎です。
-          経験はどれか一つでも構いません。
-
-          興味があれば、{{< staticref "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124101745" "newtab" >}}こちらのページ（JREC-IN）{{< /staticref >}}をご覧ください。
-
     design:
       columns: '2'
 
