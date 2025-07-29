@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2024-10-17
+date: 2025-07-29
 type: landing
 
 sections:
@@ -71,7 +71,11 @@ sections:
           location: 福岡
           date_start: '2024-06-01'
           date_end:
-          description: 大学院工学研究院 材料工学部門 山崎研究室
+          description: |2-
+               大学院工学研究院 {{< staticref "https://www.zaiko.kyushu-u.ac.jp" "newtab" >}}材料工学部門{{< /staticref >}} {{< staticref "https://q-pit.kyushu-u.ac.jp/yamazaki/index.html" "newtab" >}}山崎研究室{{< /staticref >}}
+
+               山崎教授主宰の研究室に所属し、実験-計算-機械学習の融合による新材料開発を行っています。テーマとしては、研究室として推進している燃料電池開発（{{< staticref "https://www.jst.go.jp/gtex/field/hydrogen.html" "newtab" >}}JST GteX{{< /staticref >}}）の他、熱電半導体における格子欠陥機能に関する研究などにも取り組んでいます（{{< staticref "https://www.jst.go.jp/souhatsu/research/panel_furuhara.html" "newtab" >}}JST 創発{{< /staticref >}}）。
+
         - title: 特任准教授
           company: 九州大学
           company_url: ''
@@ -143,7 +147,9 @@ sections:
 
           {{< icon name="play" pack="fas" >}} {{< staticref "https://researchmap.jp/susumufujii/" "newtab" >}}Researchmap{{< /staticref >}}
 
-          {{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}
+          {{< icon name="google-scholar" pack="fab" >}} {{< staticref "https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ" "newtab" >}}Google Scholar{{< /staticref >}}
+
+          （2025.7.29）論文が出たら{{< staticref "https://twitter.com/susumu_fujii" "newtab" >}}{{< icon name="x-twitter" pack="fab" >}}{{< /staticref >}}でお知らせする予定です。
 
     design:
       columns: '2'
@@ -196,13 +202,13 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: fujii.susumu.878 _at_ m.kyushu-u.ac.jp
       #phone: 
-      #address:
-      #  street: 450 Serra Mall
-      #  city: Stanford
-      #  region: CA
-      #  postcode: '94305'
-      #  country: United States
-      #  country_code: US
+      address:
+        #street: 
+        #city: 福岡市西区元岡744
+        region: 福岡県福岡市西区元岡744 九州大学伊都キャンパス 稲盛財団記念館407-A（山崎研究室） たまにW4-640（個室）
+        #postcode: 819-0395
+        #country: 日本
+        #country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'

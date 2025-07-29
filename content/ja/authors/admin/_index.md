@@ -85,24 +85,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 将棋
+      - name: 犬
         description: ''
         percent: 100
-        icon: chess-board
+        icon: dog
         icon_pack: fas
       - name: 映画・ドラマ
         description: ''
         percent: 90
         icon: film
         icon_pack: fas
-      - name: カメラ
+      - name: 将棋
         description: ''
-        percent: 20
-        icon: camera-retro
+        percent: 80
+        icon: chess-board
         icon_pack: fas
       - name: ゲーム
         description: ''
-        percent: 70
+        percent: 60
         icon: gamepad
         icon_pack: fas
       - name: 読書
@@ -112,7 +112,7 @@ skills:
         icon_pack: fas
       - name: 旅行
         description: ''
-        percent: 80
+        percent: 60
         icon: suitcase
         icon_pack: fas
 
@@ -127,7 +127,7 @@ skills:
         icon_pack: fas
       - name: 大阪
         description: ''
-        percent: 72
+        percent: 70
         icon: graduation-cap
         icon_pack: fas
       - name: カーン（フランス）
@@ -137,12 +137,12 @@ skills:
         icon_pack: fas
       - name: 名古屋
         description: ''
-        percent: 11
+        percent: 10
         icon: car
         icon_pack: fas
       - name: 福岡
         description: ''
-        percent: 1
+        percent: 6
         icon: utensils
         icon_pack: fas
 
@@ -158,14 +158,14 @@ social:
     icon_pack: fas
     link: https://researchmap.jp/susumufujii/
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://x.com/susumu_fujii
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

@@ -85,24 +85,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Shogi
+      - name: Play with my dog
         description: ''
         percent: 100
-        icon: chess-board
+        icon: dog
         icon_pack: fas
       - name: Netflix
         description: ''
         percent: 90
         icon: film
         icon_pack: fas
-      - name: Camera
+      - name: Shogi
         description: ''
-        percent: 20
-        icon: camera-retro
+        percent: 80
+        icon: chess-board
         icon_pack: fas
       - name: Game
         description: ''
-        percent: 70
+        percent: 60
         icon: gamepad
         icon_pack: fas
       - name: Books
@@ -112,7 +112,7 @@ skills:
         icon_pack: fas
       - name: Travel
         description: ''
-        percent: 80
+        percent: 60
         icon: suitcase
         icon_pack: fas
 
@@ -127,7 +127,7 @@ skills:
         icon_pack: fas
       - name: Osaka, Japan
         description: ''
-        percent: 72
+        percent: 70
         icon: graduation-cap
         icon_pack: fas
       - name: Caen, France
@@ -137,12 +137,12 @@ skills:
         icon_pack: fas
       - name: Nagoya, Japan
         description: ''
-        percent: 11
+        percent: 10
         icon: car
         icon_pack: fas
       - name: Fukuoka, Japan
         description: ''
-        percent: 1
+        percent: 6
         icon: utensils
         icon_pack: fas
 
@@ -155,7 +155,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=xEige7MAAAAJ
   - icon: play
     icon_pack: fas
