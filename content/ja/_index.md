@@ -134,6 +134,8 @@ sections:
       text: |-
 
           一般の方や学生の方は、まず以下のプレスリリースをご覧ください（出来るだけ分かりやすく記述しています）。
+               
+          {{< icon name="seedling" pack="fas" >}} {{< staticref "https://www.kyushu-u.ac.jp/ja/researches/view/1299" "newtab" >}}【燃料電池】300度で世界最高のプロトン伝導率を示す酸化物を開発{{< /staticref >}}
            
           {{< icon name="seedling" pack="fas" >}} {{< staticref "https://resou.osaka-u.ac.jp/ja/research/2023/20230913_1" "newtab" >}}【燃料電池】データ科学による非従来型のプロトン伝導体の発見{{< /staticref >}}
 
