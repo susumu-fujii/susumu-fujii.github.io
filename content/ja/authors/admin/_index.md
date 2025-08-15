@@ -85,7 +85,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 犬と遊ぶ{{< staticref "https://www.instagram.com/lily_cavalier_sf" "newtab" >}}{{< icon name="instagram" pack="fab" >}}{{< /staticref >}}
+      - name: 　{{< staticref "https://www.instagram.com/lily_cavalier_sf" "newtab" >}}犬{{< icon name="instagram" pack="fab" >}}{{< /staticref >}}
         description: ''
         percent: 100
         icon: dog
@@ -105,7 +105,8 @@ skills:
         percent: 60
         icon: gamepad
         icon_pack: fas
-      - name: 読書{{< staticref "https://note.com/susumufujii" "newtab" >}}{{< icon name="custom/note" >}}{{< /staticref >}}
+#      - name: 読書<a href="https://note.com/susumufujii" target="_blank"><img src="/media/icons/note.svg" alt="note" class="svg-icon svg-baseline" loading="lazy"></a>
+      - name: 　{{< staticref "https://note.com/susumufujii" "newtab" >}}読書{{< icon name="pencil" pack="fas" >}}{{< /staticref >}}
         description: ''
         percent: 20
         icon: book
