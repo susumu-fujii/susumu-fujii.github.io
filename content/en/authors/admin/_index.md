@@ -85,7 +85,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Play with my dog
+      - name: Play with my dog{{< staticref "https://www.instagram.com/lily_cavalier_sf" "newtab" >}}{{< icon name="instagram" pack="fab" >}}{{< /staticref >}}
         description: ''
         percent: 100
         icon: dog

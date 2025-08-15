@@ -61,12 +61,12 @@ skills:
         icon_pack: fas
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 60
+        percent: 80
         icon: code
         icon_pack: fas
       - name: 実験
