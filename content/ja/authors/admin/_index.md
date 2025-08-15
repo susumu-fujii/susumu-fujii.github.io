@@ -49,24 +49,24 @@ education:
 skills:
   - name: Technical
     items:
-      - name: VASP（第一原理計算）
+      - name: 第一原理計算（VASP）
         description: ''
         percent: 100
         icon: atom
         icon_pack: fas
-      - name: LAMMPS（分子動力学計算）
+      - name: 分子動力学計算（LAMMPSなど）
         description: ''
         percent: 100
         icon: chart-simple
         icon_pack: fas
       - name: Python
         description: ''
-        percent: 100
+        percent: 80
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 80
+        percent: 60
         icon: code
         icon_pack: fas
       - name: 実験
@@ -85,7 +85,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 犬
+      - name: 犬と遊ぶ{{< staticref "https://www.instagram.com/lily_cavalier_sf" "newtab" >}}{{< icon name="instagram" pack="fab" >}}{{< /staticref >}}
         description: ''
         percent: 100
         icon: dog
@@ -105,7 +105,7 @@ skills:
         percent: 60
         icon: gamepad
         icon_pack: fas
-      - name: 読書
+      - name: 読書{{< staticref "https://note.com/susumufujii" "newtab" >}}{{< icon name="custom/note" >}}{{< /staticref >}}
         description: ''
         percent: 20
         icon: book
