@@ -106,7 +106,8 @@ skills:
         icon: gamepad
         icon_pack: fas
 #      - name: 読書<a href="https://note.com/susumufujii" target="_blank"><img src="/media/icons/note.svg" alt="note" class="svg-icon svg-baseline" loading="lazy"></a>
-      - name: 　{{< staticref "https://note.com/susumufujii" "newtab" >}}読書{{< icon name="pencil" pack="fas" >}}{{< /staticref >}}
+#      - name: 　{{< staticref "https://note.com/susumufujii" "newtab" >}}読書{{< icon name="pencil" pack="fas" >}}{{< /staticref >}}
+      - name: 読書
         description: ''
         percent: 20
         icon: book
