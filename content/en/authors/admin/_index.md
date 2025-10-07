@@ -90,20 +90,20 @@ skills:
         percent: 100
         icon: dog
         icon_pack: fas
-      - name: Netflix
+      - name: Photography
         description: ''
         percent: 90
-        icon: film
+        icon: camera
         icon_pack: fas
-      - name: Shogi
-        description: ''
-        percent: 80
-        icon: chess-board
-        icon_pack: fas
-      - name: Game
+      - name: Netflix
         description: ''
         percent: 60
-        icon: gamepad
+        icon: film
+        icon_pack: fas
+      - name: Shogi & Game
+        description: ''
+        percent: 40
+        icon: chess-board
         icon_pack: fas
       - name: Books
         description: ''

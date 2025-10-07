@@ -90,20 +90,20 @@ skills:
         percent: 100
         icon: dog
         icon_pack: fas
-      - name: 映画・ドラマ
+      - name: 写真
         description: ''
         percent: 90
-        icon: film
+        icon: camera
         icon_pack: fas
-      - name: 将棋
-        description: ''
-        percent: 80
-        icon: chess-board
-        icon_pack: fas
-      - name: ゲーム
+      - name: 映画・ドラマ
         description: ''
         percent: 60
-        icon: gamepad
+        icon: film
+        icon_pack: fas
+      - name: 将棋・ゲーム
+        description: ''
+        percent: 40
+        icon: chess-board
         icon_pack: fas
 #      - name: 読書<a href="https://note.com/susumufujii" target="_blank"><img src="/media/icons/note.svg" alt="note" class="svg-icon svg-baseline" loading="lazy"></a>
 #      - name: 　{{< staticref "https://note.com/susumufujii" "newtab" >}}読書{{< icon name="pencil" pack="fas" >}}{{< /staticref >}}
