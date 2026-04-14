@@ -1,6 +1,6 @@
 ---
 title: 'BaZrO3の計算をしてみよう'
-date: '2024-04-24'
+date: '2026-04-02'
 private: true
 ---
 

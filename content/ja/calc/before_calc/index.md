@@ -1,6 +1,6 @@
 ---
 title: '計算を始める前に'
-date: '2026-04-10'
+date: '2026-04-01'
 private: true
 ---
 
@@ -14,7 +14,8 @@ private: true
 
 ターミナルは、Macの場合、OS標準で入ってます。
 これでもいいですが、個人的には[iTerm2](https://iterm2.com)というのが使いやすいので、インストールして使ってます。
-Windowsの場合、Microsoft Storeからイントールできる[Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)が良さそうです。
+Windowsの場合、Microsoft Storeからインストールできる[Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)が良さそうです。
+他には[PuTTY](https://putty.software)が有名で、こっちを使っている人の方が多いと思います。
 
 ターミナルが使えるようになったら、
 ```bash
@@ -84,3 +85,4 @@ rm -rF * # F=強制的に; *=そのディレクトリの中身全部
 ```
 とかすると、本当に全てのファイルが消えます:loudly_crying_face:
 {{% /callout %}}
+

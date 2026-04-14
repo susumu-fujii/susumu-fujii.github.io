@@ -1,6 +1,6 @@
 ---
 title: '有効電荷を出してみよう'
-date: '2024-04-29'
+date: '2026-04-07'
 private: true
 ---
 
@@ -12,7 +12,8 @@ private: true
 この方法では、原子同士の間で電荷密度が最小となる部分を境界として、各原子に属する空間を区別します（言葉にすると分かりにくいので[このページ](https://theory.cm.utexas.edu/henkelman/research/bader/)の図を見てみて下さい）。
 
 このBaderの解析をするには、第一原理計算の条件を少しだけ変える必要があります。
-electronic_structure/01_charge_density/bazro3/normalの中の入力ファイルを、electronic_structure/02_bader_chargeの中にコピーして下さい。
+electronic_structure/01_charge_density/bazro3/normalの中のINCAR、CONTCAR、KPOINTS、POTCAR、go.shを、electronic_structure/02_bader_chargeの中にコピーして下さい。
+mv CONTCAR POSCARで、CONTCARをPOSCARに変更して下さい。
 その後、INCARを下記のように修正して計算を回して下さい。
 
 ```
