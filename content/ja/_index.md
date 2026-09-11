@@ -134,6 +134,8 @@ sections:
       text: |-
 
           一般の方や学生の方は、まず以下のプレスリリースをご覧ください（出来るだけ分かりやすく記述しています）。
+
+          {{< icon name="flask" pack="fas" >}} {{< staticref "https://www.kyushu-u.ac.jp/ja/researches/view/1486" "newtab" >}}【化学】鉄と⽔素の結合を結晶内で安定化{{< /staticref >}}
                
           {{< icon name="seedling" pack="fas" >}} {{< staticref "https://www.kyushu-u.ac.jp/ja/researches/view/1299" "newtab" >}}【燃料電池】300度で世界最高のプロトン伝導率を示す酸化物を開発{{< /staticref >}}
            
